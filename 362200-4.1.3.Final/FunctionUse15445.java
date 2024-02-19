@@ -1,0 +1,7 @@
+import io.netty.handler.ssl.OpenSslEngine;
+public class FunctionUse15445 {
+public void funcUse() {
+OpenSslEngine opensslengine = new OpenSslEngine();
+opensslengine.beginHandshake();
+}
+}
